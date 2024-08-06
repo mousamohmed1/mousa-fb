@@ -1,0 +1,35 @@
+mousa-frontend/
+│
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Gallery.js
+│   │   ├── Services.js
+│   │   ├── Works.js
+│   │   ├── Challenges.js
+│   │   ├── Chat.js
+│   │   ├── Contact.js
+│   │   ├── ThreeDScene.js
+│   │   └── Footer.js
+│   │
+│   ├── App.js
+│   ├── index.js
+│   ├── styles/
+│   │   ├── App.scss
+│   │   ├── Navbar.scss
+│   │   ├── Gallery.scss
+│   │   ├── Services.scss
+│   │   ├── Works.scss
+│   │   ├── Challenges.scss
+│   │   ├── Chat.scss
+│   │   ├── Contact.scss
+│   │   └── Footer.scss
+│   └── index.css
+│
+├── .gitignore
+├── package.json
+└── README.md

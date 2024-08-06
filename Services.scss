@@ -1,0 +1,16 @@
+.services {
+  padding: 2rem;
+
+  .service-list {
+    display: flex;
+    gap: 1rem;
+
+    .service-item {
+      flex: 1;
+      background: #fff;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+  }
+}

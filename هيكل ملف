@@ -1,0 +1,17 @@
+mousa-backend/
+│
+├── controllers/
+│   ├── messageController.js
+│   └── userController.js
+│
+├── models/
+│   ├── Message.js
+│   └── User.js
+│
+├── routes/
+│   ├── messages.js
+│   └── users.js
+│
+├── .env
+├── server.js
+└── package.json
